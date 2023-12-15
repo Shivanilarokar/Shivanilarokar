@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Shivanilarokar/Shivanilarokar/blob/main/R%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Shivani N. Larokar</h1>
 <h3 align="center">I am a passionate data science enthusiast from India.</h3>
