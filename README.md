@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivani N. Larokar</h1>
 <h3 align="center">I am a passionate data science enthusiast from India.</h3>
-<img align = "right" alt = "coding" width = "400" src =https://th.bing.com/th/id/OIP.qtQr7xmCuhd26OPEk5cQxQHaE8?w=293&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7>
+<img align = "middle" alt = "coding" width = "400" src =https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanilarokar&label=Profile%20views&color=0e75b6&style=flat" alt="shivanilarokar" /> </p">
 
