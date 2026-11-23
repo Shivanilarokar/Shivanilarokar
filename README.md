@@ -1,10 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Shivani%20N.%20Larokar&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Multi-Agent%20Systems%20%E2%80%A2%20Production%20RAG%20%E2%80%A2%20MCP&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://github.com/Shivanilarokar/Shivanilarokar/blob/main/1700993478438.jpg?raw=true" width="100%" style="border-radius:12px" alt="Shivani N. Larokar" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Shivanilarokar">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivani+%E2%80%94+I+build+AI+agents+that+ship.;Multi-agent+systems+with+LangGraph+%F0%9F%A7%A0;Production+RAG+%C2%B7+MCP+%C2%B7+FastAPI+%C2%B7+Azure+OpenAI;Human-in-the-loop%2C+evidence-cited%2C+safe+on+real+data+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
   </a>
