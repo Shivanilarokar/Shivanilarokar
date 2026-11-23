@@ -33,15 +33,16 @@
 </tr>
 </table>
 
-```python
-class Shivani(AIEngineer):
-    focus     = ["Multi-Agent Systems", "Production RAG", "MCP Tooling", "LLM Evaluation"]
-    builds    = ["agents that pause for humans", "retrieval that cites its sources", "platforms that isolate tenants"]
-    stack     = {"agents": ["LangGraph", "LangChain", "MCP", "MS Agent Framework", "Bedrock AgentCore"],
-                 "llms":   ["Azure OpenAI", "OpenAI", "Gemini", "Claude"],
-                 "infra":  ["FastAPI", "PostgreSQL", "Docker", "Azure", "Cloud Run"]}
-    principle = "If it can't explain its answer, it isn't done."
-```
+## 🚀 What I Do
+
+<table>
+<tr>
+<td align="center" width="25%">🤖<br><b>Multi-Agent Systems</b><br><sub>Supervisors, specialists & tool isolation with LangGraph</sub></td>
+<td align="center" width="25%">📚<br><b>Production RAG</b><br><sub>Hybrid retrieval, grounded & evidence-cited answers</sub></td>
+<td align="center" width="25%">🔌<br><b>MCP Tooling</b><br><sub>Custom MCP servers, registries & tool risk controls</sub></td>
+<td align="center" width="25%">🛡️<br><b>Safe AI in Production</b><br><sub>Human-in-the-loop, guardrails, auth & monitoring</sub></td>
+</tr>
+</table>
 
 ## ⭐ Featured Projects
 
